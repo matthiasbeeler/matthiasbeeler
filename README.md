@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#My GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=matthiasbeeler)](https://git.io/streak-stats)
