@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+#My GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=matthiasbeeler)](https://git.io/streak-stats)
